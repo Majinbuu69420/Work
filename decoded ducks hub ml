@@ -102,7 +102,7 @@ local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
-local window = library:AddWindow("DUCKS SCRIPT XDDD By MCL_HAVOC", {
+local window = library:AddWindow("DUCKS SCRIPT By MCL_HAVOC || Deobfuscate By Aabis", {
     main_color = Color3.fromRGB(66, 164, 115), -- Custom emerald green color
     min_size = Vector2.new(700, 900),
     can_resize = true,
