@@ -1624,7 +1624,7 @@ local autoHandstandsSwitch =
 )
 autoHandstandsSwitch:Set(false)
 
-local FarmingTab = window:AddTab("FarmingV2")
+local folder = window:AddTab("FarmingV2")
 
 local function setupFarmStr(folder)
     getgenv().ThreadCount = 10
